@@ -1,5 +1,7 @@
 # Simple Face Detetion Application
 
+Link = https://alienyst-facedetection.streamlit.app/
+
 Aplikasi ini dibangun menggunakan Streamlit dan OpenCV.
 
 ## Face Detection
